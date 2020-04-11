@@ -193,4 +193,4 @@ deploy: #博客部署
 
 ### 启动hexo博客
 
-- hexo clean、hexo g、(gulp：压缩命令)、hexo s、hexo  d
+- 在博客根目录打开Git Bash，输入命令：`hexo clean、hexo g、(gulp：压缩命令)、hexo s、hexo  d ` 即可看到渲染效果。
