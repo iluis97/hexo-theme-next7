@@ -3,10 +3,12 @@
 ![](https://img.shields.io/badge/Next-7.7.2-green.svg) 
 
 [欢迎访问我的博客](https://iluis.cn/)，点击蓝色字体即可进入！
+- [CSDN](https://blog.csdn.net/qq_39720594)上有整理Hexo的搭建、部署、自定义域名以及优化细节的文章，欢迎大家阅读！
+- 点击获取[Next主题最新版本](https://theme-next.org/)!
 
 ⚠️ 注意并不能保证网站的样式与本仓库中样式一致，如果你会修改 CSS 样式的话，可以继续在此基础上魔改 Next 主题。
 
-### 使用方法
+## 使用方法
 
 使用 GitBash，进入到本地 hexo 根目录，使用以下命令
 
@@ -16,10 +18,7 @@ git clone https://github.com/iluis97/hexo-theme-next7.git /themes/hexo-themes-ne
 
 其中`/themes/hexo-themes-next7`名称可以任取，只要放到 hexo 下的 themes 主题下即可。
 
-- [CSDN](https://blog.csdn.net/qq_39720594)上有整理Hexo的搭建、部署、自定义域名以及优化细节的文章，欢迎大家阅读！
-- 点击获取[Next主题最新版本](https://theme-next.org/)!
-
-### 配置文件准备
+## 配置文件准备
 
 hexo 站点根目录下配置，供参考：
 
