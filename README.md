@@ -2,8 +2,12 @@
 
 ![](https://img.shields.io/badge/Next-7.7.2-green.svg) 
 
+> 本项目由许多借鉴[Snarous](https://bestzuo.cn/)的地方，在此表示感谢！
+
 [欢迎访问我的博客](https://iluis.cn/)，点击蓝色字体即可进入！
+
 - [CSDN](https://blog.csdn.net/qq_39720594)上有整理Hexo的搭建、部署、自定义域名以及优化细节的文章，欢迎大家阅读！
+
 - 点击获取[Next主题最新版本](https://theme-next.org/)!
 
 ⚠️ 注意并不能保证网站的样式与本仓库中样式一致，如果你会修改 CSS 样式的话，可以继续在此基础上魔改 Next 主题。
